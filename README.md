@@ -20,17 +20,7 @@ A simple sandbox mode based on a sandbox id (number).
 - npm
 - Node.js (10.14.1)
 
-# Demo Server 1
+# Demo Server
 Initial loading time may take a while.
-http://arras.cc
-Select the "Sandbox" server. Default sandbox id is 123.
-
-# Demo Server 2
-Initial loading time may take a while.
-http://arras.pro
-Select the "Sandbox" server. Default sandbox id is 123.
-
-# Demo Server 3
-Initial loading time may take a while.
-http://arras.vip
+https://tankster.io
 Select the "Sandbox" server. Default sandbox id is 123.
